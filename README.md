@@ -6,7 +6,9 @@ C1 hard assignments
 
 - [ ] This is a check box
 - [x] this is a checked box
-- <del> [x] this is a checked box </del>
+- [x] this is a checked box </del>
+
+This formatting for DEL looks off
 
 ---
 
