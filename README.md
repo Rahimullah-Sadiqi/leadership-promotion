@@ -8,7 +8,7 @@ C1 hard assignments
 - [x] this is a checked box
 - [x] this is a checked box </del>
 
-This formatting for DEL looks off
+This formatting for DEL looks off good
 - <del></del>
 
 ---
