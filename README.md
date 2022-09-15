@@ -10,10 +10,9 @@ C1 hard assignments
 
 This formatting for DEL looks off good
 - <del></del>
-sdfibirufwe
+lets do it friends
 
 ---
-
 # to do list 
 - <del></del>
 first i have to make sure it is correct
