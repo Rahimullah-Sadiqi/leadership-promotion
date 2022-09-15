@@ -17,7 +17,6 @@ sdfibirufwe
 # to do list 
 - <del></del>
 first i have to make sure it is correct
-
 then if it is correct then i am all good to go
 
 ---
